@@ -1,0 +1,37 @@
+@font-face {
+    font-family: NeoDunggeunmo;
+    src: url(NeoDunggeunmoPro-Regular.woff2);
+}
+
+body {
+    width: auto;
+    margin: 0px auto;
+    background-color: rgb(0, 0, 168);
+    font-family: NeoDunggeunmo;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+#title {
+    font-size: 88px;
+    color: yellowgreen;
+    padding-top: 24px;
+}
+
+#word {
+    color: yellow;
+}
+
+#order {
+    font-size: 52px;
+}
+
+#inputC {
+    padding-top: 120px;
+}
+
+#input {
+    width: 180px;
+    height: 40px;
+}
